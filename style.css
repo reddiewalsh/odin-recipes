@@ -1,0 +1,18 @@
+/* style.css for Odin Recipes */
+
+* {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.return {
+    background-color: lightsalmon;
+    padding: 1em 2em;
+    text-align: center;
+}
+
+.button {
+  height: 50px;
+  line-height: 50px; /* Matches the height to vertically center single-line text */
+  text-align: center;
+ }
