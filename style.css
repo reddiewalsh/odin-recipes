@@ -2,10 +2,12 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
 html, body {
-    margin-left: 100px
+    margin-left: 100px;
+    margin-right: 50px;
 }
 
 body {
@@ -28,4 +30,11 @@ body {
 img {
     height: auto;
     width: 500px;
+}
+
+.title, .heading {
+    font-style: oblique;
+    color: darkslateblue;
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+
 }
